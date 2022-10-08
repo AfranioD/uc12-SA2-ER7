@@ -45,7 +45,7 @@ switch (opcao)
 |            1 - Cadastrar Pessoa Física    |
 |            2 - Listar Pessoa Física       |
 |                                           |
-|            0 - Sair                       |
+|            0 - Voltar ao menu anterior    |
 =============================================
 ");
         opcaoPf = Console.ReadLine();

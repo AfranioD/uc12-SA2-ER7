@@ -20,10 +20,10 @@ do
 =============================================
 |        Escolha uma das opções abaixo:     |
 |-------------------------------------------|   
-|            1 - Cadastrar Pessoa Física    |
-|            2 - Listar Pessoa F´sicaíca    |
+|           1 - Pessoa Física               |
+|           2 - Pessoa Juridíca             |
 |                                           |
-|            0 - Sair                       |
+|           0 - Sair                        |
 =============================================
 ");
 
@@ -42,8 +42,8 @@ switch (opcao)
 =============================================
 |        Escolha uma das opções abaixo:     |
 |-------------------------------------------|   
-|            1 - Pessoa Física              |
-|            2 - Pessoa Juridíca            |
+|            1 - Cadastrar Pessoa Física    |
+|            2 - Listar Pessoa Física       |
 |                                           |
 |            0 - Sair                       |
 =============================================

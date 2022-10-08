@@ -20,8 +20,8 @@ do
 =============================================
 |        Escolha uma das opções abaixo:     |
 |-------------------------------------------|   
-|            1 - Pessoa Física              |
-|            2 - Pessoa Juridíca            |
+|            1 - Cadastrar Pessoa Física    |
+|            2 - Listar Pessoa F´sicaíca    |
 |                                           |
 |            0 - Sair                       |
 =============================================
